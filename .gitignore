@@ -1,0 +1,10 @@
+
+c
+*.log
+*.com
+*.h
+/ta
+!com.com
+! www.com
+! www.com
+!jjjj.com
